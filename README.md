@@ -1,6 +1,6 @@
 # seq2seq__couplet
 Using seq2seq model to generate chinese couplet.
-* First crawle some data from urls like :
+* First, I crawler some datas from urls like :
 
   1）http://www.5ykj.com/Article/wmzsmyyy/80876.htm  
 

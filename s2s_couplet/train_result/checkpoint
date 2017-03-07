@@ -1,0 +1,6 @@
+model_checkpoint_path: "p2w.ckpt-41000"
+all_model_checkpoint_paths: "p2w.ckpt-40000"
+all_model_checkpoint_paths: "p2w.ckpt-40200"
+all_model_checkpoint_paths: "p2w.ckpt-40400"
+all_model_checkpoint_paths: "p2w.ckpt-40600"
+all_model_checkpoint_paths: "p2w.ckpt-41000"

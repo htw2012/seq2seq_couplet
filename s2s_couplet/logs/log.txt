@@ -1,0 +1,3 @@
+2017-02-28 21:51:52,567 - mytest - INFO - input张三打鱼,output:耕全万亩飞
+2017-02-28 21:52:16,579 - mytest - INFO - input黄楼之梦,output:野漏知清情
+2017-02-28 21:52:55,671 - mytest - INFO - input腊梅辞旧岁,output:春鼠报新春

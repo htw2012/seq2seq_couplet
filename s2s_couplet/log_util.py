@@ -1,9 +1,7 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 """
-title= ""
-author= "huangtw3"
-email= huangtw3@chanjet.com
+title= "日志工具类"
 ctime = 2016/11/11
 """
 import logging

@@ -11,7 +11,7 @@ Using seq2seq model to generate chinese couplet.
   4）http://wenku.baidu.com/view/87f00ed73968011ca20091a3 ,about 105 pages
 
   5）http://zhidao.baidu.com/link?url=Vcxb1l2-Nk-PPGNw75TLTtNrNru1fxI5DLCohap8r83EZWfvb4YXB_DmPZ8cyEMDVWCJHGbr5j8ifE1x59usYK
-<br>
+   <br>
 * Second,Using the seq2seq to model it.
 
 * Third,you can test it .
